@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @virsworld
+- 👋 Hi, I’m Vir Patel
 - 👀 I’m interested in creating useful algorithms
 - 🌱 I’m currently learning computer engineering
 
